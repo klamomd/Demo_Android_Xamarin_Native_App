@@ -1,0 +1,16 @@
+CodingTest1.Droid.Adapters.UserAdapter, CodingTest1.Droid;md51018f42767dd79006ccad4dcbc280e27.UserAdapter
+CodingTest1.Droid.Adapters.UserAdapter, CodingTest1.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51018f42767dd79006ccad4dcbc280e27.UserAdapter
+CodingTest1.Droid.Adapters.UserAdapter;md51018f42767dd79006ccad4dcbc280e27.UserAdapter
+codingtest1.droid.adapters.UserAdapter;md51018f42767dd79006ccad4dcbc280e27.UserAdapter
+CodingTest1.Droid.Helpers.ViewHolder, CodingTest1.Droid;md55df1cf80305bdfa236e44af753b2e416.ViewHolder
+CodingTest1.Droid.Helpers.ViewHolder, CodingTest1.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55df1cf80305bdfa236e44af753b2e416.ViewHolder
+CodingTest1.Droid.Helpers.ViewHolder;md55df1cf80305bdfa236e44af753b2e416.ViewHolder
+codingtest1.droid.helpers.ViewHolder;md55df1cf80305bdfa236e44af753b2e416.ViewHolder
+CodingTest1.Droid.Activities.AddUserActivity, CodingTest1.Droid;md584154b478bffd83c48ac389f993280a0.AddUserActivity
+CodingTest1.Droid.Activities.AddUserActivity, CodingTest1.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md584154b478bffd83c48ac389f993280a0.AddUserActivity
+CodingTest1.Droid.Activities.AddUserActivity;md584154b478bffd83c48ac389f993280a0.AddUserActivity
+codingtest1.droid.activities.AddUserActivity;md584154b478bffd83c48ac389f993280a0.AddUserActivity
+CodingTest1.Droid.Activities.MainActivity, CodingTest1.Droid;md584154b478bffd83c48ac389f993280a0.MainActivity
+CodingTest1.Droid.Activities.MainActivity, CodingTest1.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md584154b478bffd83c48ac389f993280a0.MainActivity
+CodingTest1.Droid.Activities.MainActivity;md584154b478bffd83c48ac389f993280a0.MainActivity
+codingtest1.droid.activities.MainActivity;md584154b478bffd83c48ac389f993280a0.MainActivity

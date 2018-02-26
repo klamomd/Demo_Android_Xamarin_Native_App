@@ -1,0 +1,2 @@
+android.app.Application
+CodingTest1.Droid

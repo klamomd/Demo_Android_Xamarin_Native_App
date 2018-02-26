@@ -1,0 +1,106 @@
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.dll
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.pdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.apk
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid-Signed.apk
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.csprojResolveAssemblyReference.cache
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.dll
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.pdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\bin\CodingTest1.Droid.apk
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\layout\main.xml
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\values\strings.xml
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-hdpi\icon.png
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-mdpi\icon.png
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\R.cs.flag
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\uploadflags.txt
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\Java.Interop.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\Mono.Android.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\mscorlib.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\System.Core.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\System.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\System.Net.Http.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\System.Xml.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\CodingTest1.Droid.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\System.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+M:\MY PROJECTS\Code\VS Projects\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.dll
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.pdb
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.apk
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid-Signed.apk
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.dll
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.pdb
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\bin\CodingTest1.Droid.apk
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\layout\main.xml
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\R.cs.flag
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\uploadflags.txt
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.dll.mdb
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\CodingTest1.Droid.dll.mdb
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\layout\userlistitem.xml
+C:\Users\Mike\Desktop\CodingTest1\CodingTest1\CodingTest1.Droid\obj\Debug\res\layout\adduserlayout.xml
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.dll
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\CodingTest1.Droid.pdb
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.dll
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.pdb
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.apk
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid-Signed.apk
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\android\bin\CodingTest1.Droid.apk
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\res\layout\userlistitem.xml
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\res\layout\adduserlayout.xml
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\res\layout\main.xml
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\R.cs.flag
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\uploadflags.txt
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.dll.mdb
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\obj\Debug\android\assets\CodingTest1.Droid.dll.mdb
+C:\Users\Mike\Desktop\CodingTest1 - Tidier\CodingTest1\CodingTest1.Droid\bin\Debug\CodingTest1.Droid.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\CodingTest1.Droid.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
